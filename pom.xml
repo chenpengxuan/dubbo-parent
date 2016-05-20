@@ -96,6 +96,7 @@
 	</profiles>
 	<properties>
 		<!-- Common libs -->
+		<maven.test.skip>true</maven.test.skip>
 		<spring.bom.version>3.2.9.RELEASE</spring.bom.version>
 		<javassist_version>3.15.0-GA</javassist_version>
 		<netty_version>3.7.0.Final</netty_version>
